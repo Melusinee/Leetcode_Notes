@@ -1,5 +1,4 @@
 # Leetcode_Notes
-************    NOTEBOOK FOR HUICHUN LI ****************
-The notebook when doing the leetcode exercise
+This is a notebook which written by Huichun Li that intend to help with Leetcode study 
 
-************ KEEP UPDATING ***************
+*只因太阳尚未西沉*
